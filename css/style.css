@@ -1274,3 +1274,35 @@ strong {
 .timeline-year{
   font-size: .8em !important;
 }
+
+/* SEO Blog */
+
+.blog {
+  text-align: left;
+  padding: 110px;
+  opacity: 60%;
+  font-size: 26px;
+}
+
+.blog h1{
+  font-size: 26px;
+  color:#00A9FF;
+  letter-spacing: 1px;
+  opacity: 70%;
+}
+.blog h4{
+  font-size: 26px;
+  color:#89CFF3;
+  opacity: 80%;
+}
+.blog h5{
+  font-size: 26px;
+  color:#89CFF3;
+  opacity: 80%;
+}
+.blog h6{
+  font-size: 26px;
+  color:#89CFF3;
+  opacity: 80%;
+}
+
