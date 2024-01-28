@@ -1178,6 +1178,7 @@ strong {
     width: 35.5px;
     height: 35.5px;
     line-height: 35.5px;
+    display: none;
   }
 
   .hero-image-wrap {
