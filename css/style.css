@@ -1173,6 +1173,9 @@ strong {
     font-size: 13px;
     padding: 6px 12px;
   }
+  .blog{
+    padding: 16px;
+  }
 
   .navbar-icon {
     font-size: var(--copyright-font-size);
