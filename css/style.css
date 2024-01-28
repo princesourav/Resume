@@ -1179,7 +1179,7 @@ strong {
   .blog h1{
     font-size: 16px !important;
   }
-  .blog h4{
+  .blog h4, h5, h6{
     font-size: 14px !important;
   }
   .blog p{
