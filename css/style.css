@@ -1174,7 +1174,7 @@ strong {
     padding: 6px 12px;
   }
   .blog{
-    padding: 16px;
+    padding: 16px !important;
   }
 
   .navbar-icon {
