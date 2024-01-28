@@ -907,10 +907,7 @@ strong {
   font-size: var(--copyright-font-size);
 }
 
-.copyright-text {
-  padding-right: 25px;
-  margin-right: 20px;
-}
+
 
 .copyright-text-wrap a {
   font-weight: var(--font-weight-bold);
