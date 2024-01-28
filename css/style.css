@@ -1164,6 +1164,10 @@ strong {
     font-size: 20px;
   }
 
+  .copyright-text-wrap p,
+  .copyright-text {
+    font-size: 10px;
+  }
   .custom-btn,
   .navbar .custom-btn {
     font-size: 13px;
